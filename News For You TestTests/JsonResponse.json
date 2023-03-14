@@ -1,0 +1,45 @@
+{
+"status": "ok",
+"totalResults": 3,
+"articles": [
+{
+"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "Clare Mulroy",
+"title": "What is the healthiest fruit? This one is packed with nutrients. - USA TODAY",
+"description": "There isn't just one fruit that is healthier than others, but one fruit stands out with increased fiber, antioxidants and cognitive benefits.",
+"url": "https://www.usatoday.com/story/life/2023/03/12/what-is-the-healthiest-fruit/11383241002/",
+"urlToImage": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/09/USATODAY/usatsports/gettyimages-529677122.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
+"publishedAt": "2023-03-12T11:00:25Z",
+"content": "An apple a day keeps the doctor away, right?  We grew up hearing the cliched expression, but do you know how much fruit you should actually be eating per day? The recommended intake depends on a num… [+5034 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "Ana Paula Pereira",
+"title": "Silicon Valley Bank failure could trigger run on US regional banks - Cointelegraph",
+"description": "Fed and FDIC decisions concerning the future of Silicon Valley Bank may affect regional banks across the United States.",
+"url": "https://cointelegraph.com/news/silicon-valley-bank-failure-could-trigger-run-on-u-s-regional-banks",
+"urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/4eb7c7ac-a55b-455b-b3ea-498b3c6f1040.jpg",
+"publishedAt": "2023-03-12T10:27:26Z",
+"content": "Federal Reserve and Federal Deposit Insurance Corporation (FDIC) decisions concerning the future of Silicon Valley Bank (SVB) may affect regional banks across the United States, putting trillions of … [+2381 chars]"
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Laura Reiley",
+"title": "Milk, cheese and ice cream without the cow has entered the marketplace - The Washington Post",
+"description": "Labs have created exact molecular replicas of cow dairy. Some are already on shelves and being hailed as a way to reduce harm to cows and cut down dairy’s huge contribution to climate change.",
+"url": "https://www.washingtonpost.com/business/2023/03/12/precision-cultivated-dairy/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JHD5SGQJWCAB4NOHJ4OGLYCVE4_size-normalized.jpg&w=1440",
+"publishedAt": "2023-03-12T10:13:57Z",
+"content": "Comment on this story BERKELEY, Calif. The first course was a celery root soup lush with whole milk. The last was a spice cake topped with maple cream cheese frosting served with a side of ice cream… [+11602 chars]"
+}
+]
+}
